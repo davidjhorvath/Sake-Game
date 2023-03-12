@@ -1,2 +1,2 @@
 # Snake-Game
-https://davidjhorvath.github.io/Sake-Game/
+https://davidjhorvath.github.io/Snake-Game/
